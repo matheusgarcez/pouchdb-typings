@@ -1,0 +1,10 @@
+{
+  "name": "pouchdb-typings",
+  "version": "6.3.4",
+  "license": "MIT",
+  "description": "Typings for PouchDB (latest)",
+  "repository": "https://github.com/matheusgarcez/pouchdb-typings",
+  "devDependencies": {
+    "typescript": "2.3.0"
+  }
+}
